@@ -28,7 +28,7 @@ SECRET_KEY = '!pgy(0a(zj(j*%r&@=%q&#8@(x*+cit5w4%oe4&(qxjza#+%sv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['guguponce.pythonanywhere.com']
 
 
 # Application definition
